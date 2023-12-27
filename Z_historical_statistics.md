@@ -1,5 +1,6 @@
-| Date | Number of sources | IPs in full-\* | IPs in all sources | IPs in 1 source | full-\* IPs common with ISDB 100F | full-\* IPs common with ISDB 200F |
+| Date | Number of sources | IPs in full-\* | IPs in 6 sources | IPs in 1 source | full-\* IPs common with ISDB 100F | full-\* IPs common with ISDB 200F |
 | ---------- | --- | ------- | ------ | ------ | ------ | ------ |
+| 23-12-27 | 9 | 508483 | 0.76% | 78.04% | 8.90% | 13.58% |
 | 23-12-26 | 5 | 502188 | 2.16% | 78.69% | 8.95% | 13.64% |
 | 23-12-25 | 5 | 501626 | 2.15% | 78.66% | 8.95% | 13.64% |
 | 23-12-24 | 5 | 500583 | 2.18% | 78.59% | 8.96% | 13.66% |
