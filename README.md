@@ -78,17 +78,17 @@ The IP addresses of Google bots and Bing bots are removed from all files so as n
 
 History of statistics [here](https://github.com/romainmarcoux/malicious-ip/blob/main/Z_historical_statistics.md)
 
-Update of the following table: 2023-12-31 15:50 CEST
+Update of the following table: 2023-12-31 18:44 CEST
 
 | Malicious IP addresses in full-\*                          | Number of IPs |
 | ------------------------------------------------------------ | ----------- |
-| Present in 6 sources | 1.04% (4044) |
-| Present in 5 sources | 1.46% (5644) |
-| Present in 4 sources | 3.31% (12817) |
-| Present in 3 sources | 5.99% (23150) |
-| Present in 2 sources | 13.50% (52183) |
-| Present in 1 source | 74.63% (288373) |
-| Total | 100% (386397) |
+| Present in 6 sources | 1.25% (4891) |
+| Present in 5 sources | 1.66% (6463) |
+| Present in 4 sources | 3.53% (13717) |
+| Present in 3 sources | 5.54% (21542) |
+| Present in 2 sources | 13.63% (52952) |
+| Present in 1 source | 74.31% (288695) |
+| Total | 100% (388489) |
 
 Update of the common IP table with the FortiGate ISDB Malicious-Malicious.Server: 2023-12-31 01:30 CEST
 
