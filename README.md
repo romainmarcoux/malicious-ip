@@ -1,9 +1,32 @@
 Menu:
 
+- [Statistics](https://github.com/romainmarcoux/malicious-ip#statistics)
 - [Version Française](https://github.com/romainmarcoux/malicious-ip#fr-listes-dadresses-ip-malicieuses)
 - [English version](https://github.com/romainmarcoux/malicious-ip#en-malicious-ip-addresses-lists)
 - [Sources](https://github.com/romainmarcoux/malicious-ip#sources)
-- [Statistics](https://github.com/romainmarcoux/malicious-ip#statistics)
+
+# Statistics
+
+History of statistics [here](https://github.com/romainmarcoux/malicious-ip/blob/main/statistics/historical_statistics.md)
+
+Update of the following table: 2024-01-03 18:44 CEST
+
+| Malicious IP addresses in full-\*                          | Number of IPs |
+| ------------------------------------------------------------ | ----------- |
+| Present in 6 sources | 1.64% (6858) |
+| Present in 5 sources | 1.43% (6000) |
+| Present in 4 sources | 3.35% (13978) |
+| Present in 3 sources | 5.40% (22542) |
+| Present in 2 sources | 13.39% (55840) |
+| Present in 1 source | 74.67% (311231) |
+| Total | 100% (416791) |
+
+Update of the common IP table with the FortiGate ISDB Malicious-Malicious.Server: 2024-01-03 13:19 CEST
+
+| FortiGate models                                           | full-\* IPs common with ISDB |
+| ------------------------------------------------------------ | ----------- |
+| 100F and below | 11.09% |
+| 200F and above | 16.67% |
 
 # [FR] Listes d'adresses IP malicieuses
 Agrégation de listes d'adresses IP malicieuses scindée en fichiers de 131 072 entrées au maximum pour être intégrées dans des pare-feux : Fortinet **__FortiGate__**, Palo Alto, pfSense, OPNsense, IPtables ...
@@ -73,27 +96,4 @@ Contact me via LinkedIn ([my profile](https://linkedin.com/in/romainmarcoux/)) t
 | full-\* | | All blocklists, sorted by relevance (IPs present in most files first), duplicates removed |
 
 The IP addresses of Google bots and Bing bots are removed from all files so as not to impact the SEO of the websites.
-
-# Statistics
-
-History of statistics [here](https://github.com/romainmarcoux/malicious-ip/blob/main/Z_historical_statistics.md)
-
-Update of the following table: 2023-12-31 18:44 CEST
-
-| Malicious IP addresses in full-\*                          | Number of IPs |
-| ------------------------------------------------------------ | ----------- |
-| Present in 6 sources | 1.25% (4891) |
-| Present in 5 sources | 1.66% (6463) |
-| Present in 4 sources | 3.53% (13717) |
-| Present in 3 sources | 5.54% (21542) |
-| Present in 2 sources | 13.63% (52952) |
-| Present in 1 source | 74.31% (288695) |
-| Total | 100% (388489) |
-
-Update of the common IP table with the FortiGate ISDB Malicious-Malicious.Server: 2023-12-31 01:30 CEST
-
-| FortiGate models                                           | full-\* IPs common with ISDB |
-| ------------------------------------------------------------ | ----------- |
-| 100F and below | 9.08% |
-| 200F and above | 13.77% |
 
