@@ -1,205 +1,209 @@
 Statistics on countries of malicious IP addresses present in at least 2 sources
 
-Update of the following table: 2024-01-03 21:03 CEST
+Update of the following table: 2024-03-28 01:30 CEST
 
 | Number of malicious IP addresses | Country |
 | ------------------------------------------------- | ----------------------------------- |
-| 22705 IP ( 21.579 % ) | China |
-| 20655 IP ( 19.6307 % ) | United States |
-| 6796 IP ( 6.45897 % ) | Russia |
-| 6512 IP ( 6.18906 % ) | Germany |
-| 5621 IP ( 5.34224 % ) | South Korea |
-| 4933 IP ( 4.68836 % ) | Singapore |
-| 4891 IP ( 4.64844 % ) | India |
-| 4167 IP ( 3.96035 % ) | United Kingdom |
-| 3579 IP ( 3.40151 % ) | France |
-| 3293 IP ( 3.12969 % ) | The Netherlands |
-| 3053 IP ( 2.90159 % ) | Brazil |
-| 3046 IP ( 2.89494 % ) | Hong Kong |
-| 2519 IP ( 2.39408 % ) | Italy |
-| 2222 IP ( 2.11181 % ) | Vietnam |
-| 1994 IP ( 1.89511 % ) | Iran |
-| 1833 IP ( 1.7421 % ) | Taiwan |
-| 1775 IP ( 1.68697 % ) | Japan |
-| 1735 IP ( 1.64896 % ) | Türkiye |
-| 1690 IP ( 1.60619 % ) | Bulgaria |
-| 1603 IP ( 1.5235 % ) | Indonesia |
-| 1446 IP ( 1.37429 % ) | Canada |
-| 1412 IP ( 1.34198 % ) | Spain |
-| 1407 IP ( 1.33722 % ) | Argentina |
-| 1379 IP ( 1.31061 % ) | Sweden |
-| 1351 IP ( 1.284 % ) | Poland |
-| 1312 IP ( 1.24693 % ) | Ukraine |
-| 1032 IP ( 0.980821 % ) | Australia |
-| 815 IP ( 0.774582 % ) | Mexico |
-| 708 IP ( 0.672889 % ) | Thailand |
-| 606 IP ( 0.575947 % ) | Romania |
-| 566 IP ( 0.537931 % ) | Azerbaijan |
-| 546 IP ( 0.518923 % ) | Portugal |
-| 539 IP ( 0.51227 % ) | United Arab Emirates |
-| 528 IP ( 0.501815 % ) | Colombia |
-| 519 IP ( 0.493262 % ) | Kazakhstan |
-| 489 IP ( 0.464749 % ) | Venezuela |
-| 484 IP ( 0.459997 % ) | Hungary |
-| 466 IP ( 0.44289 % ) | Finland |
-| 448 IP ( 0.425783 % ) | Israel |
-| 421 IP ( 0.400122 % ) | Malaysia |
-| 391 IP ( 0.371609 % ) | Pakistan |
-| 370 IP ( 0.351651 % ) | Greece |
-| 363 IP ( 0.344998 % ) | Bangladesh |
-| 337 IP ( 0.320287 % ) | Ethiopia |
-| 334 IP ( 0.317436 % ) | Belgium |
-| 324 IP ( 0.307932 % ) | Switzerland |
-| 303 IP ( 0.287974 % ) | Iraq |
-| 299 IP ( 0.284172 % ) | Egypt |
-| 296 IP ( 0.281321 % ) | Philippines |
-| 288 IP ( 0.273717 % ) | Czechia |
-| 276 IP ( 0.262313 % ) | Austria |
-| 263 IP ( 0.249957 % ) | Uzbekistan |
-| 235 IP ( 0.223346 % ) | Norway |
-| 223 IP ( 0.211941 % ) | Lithuania |
-| 201 IP ( 0.191032 % ) | Saudi Arabia |
-| 201 IP ( 0.191032 % ) | Chile |
-| 178 IP ( 0.169173 % ) | South Africa |
-| 177 IP ( 0.168222 % ) | Luxembourg |
-| 169 IP ( 0.160619 % ) | Moldova |
-| 160 IP ( 0.152065 % ) | Kenya |
-| 153 IP ( 0.145412 % ) | Latvia |
-| 152 IP ( 0.144462 % ) | Ireland |
-| 146 IP ( 0.13876 % ) | Peru |
-| 143 IP ( 0.135908 % ) | Belarus |
-| 141 IP ( 0.134007 % ) | Denmark |
-| 137 IP ( 0.130206 % ) | Georgia |
-| 126 IP ( 0.119751 % ) | Morocco |
-| 116 IP ( 0.110247 % ) | Serbia |
-| 105 IP ( 0.0997928 % ) | Bolivia |
-| 101 IP ( 0.0959912 % ) | Cambodia |
-| 95 IP ( 0.0902887 % ) | Nigeria |
-| 88 IP ( 0.0836359 % ) | Slovakia |
-| 87 IP ( 0.0826855 % ) | Paraguay |
-| 87 IP ( 0.0826855 % ) | Ecuador |
-| 87 IP ( 0.0826855 % ) | Cabo Verde |
-| 81 IP ( 0.076983 % ) | Mongolia |
-| 81 IP ( 0.076983 % ) | Kyrgyzstan |
-| 78 IP ( 0.0741318 % ) | Armenia |
-| 76 IP ( 0.072231 % ) | Seychelles |
-| 76 IP ( 0.072231 % ) | Palestine |
-| 76 IP ( 0.072231 % ) | Croatia |
-| 74 IP ( 0.0703302 % ) | Slovenia |
-| 74 IP ( 0.0703302 % ) | Bahrain |
-| 71 IP ( 0.0674789 % ) | Jordan |
-| 71 IP ( 0.0674789 % ) | Albania |
-| 70 IP ( 0.0665285 % ) | Bosnia and Herzegovina |
-| 68 IP ( 0.0646277 % ) | Tunisia |
-| 66 IP ( 0.0627269 % ) | Sri Lanka |
-| 66 IP ( 0.0627269 % ) | Iceland |
-| 64 IP ( 0.0608261 % ) | Lebanon |
-| 64 IP ( 0.0608261 % ) | Algeria |
-| 62 IP ( 0.0589253 % ) | Kuwait |
-| 61 IP ( 0.0579749 % ) | Uganda |
-| 59 IP ( 0.0560741 % ) | Estonia |
-| 58 IP ( 0.0551236 % ) | Cyprus |
-| 56 IP ( 0.0532228 % ) | North Macedonia |
-| 54 IP ( 0.051322 % ) | Nepal |
-| 52 IP ( 0.0494212 % ) | Panama |
-| 51 IP ( 0.0484708 % ) | Qatar |
-| 50 IP ( 0.0475204 % ) | Macao |
-| 49 IP ( 0.04657 % ) | Costa Rica |
-| 44 IP ( 0.0418179 % ) | Gambia |
-| 44 IP ( 0.0418179 % ) | Dominican Republic |
-| 43 IP ( 0.0408675 % ) | Guatemala |
-| 42 IP ( 0.0399171 % ) | Guadeloupe |
-| 41 IP ( 0.0389667 % ) | Tanzania |
-| 40 IP ( 0.0380163 % ) | None |
-| 34 IP ( 0.0323139 % ) | Zambia |
-| 32 IP ( 0.030413 % ) | Ghana |
-| 31 IP ( 0.0294626 % ) | New Zealand |
-| 31 IP ( 0.0294626 % ) | Kosovo |
-| 30 IP ( 0.0285122 % ) | Syria |
-| 28 IP ( 0.0266114 % ) | Tajikistan |
-| 28 IP ( 0.0266114 % ) | Senegal |
-| 28 IP ( 0.0266114 % ) | Laos |
-| 27 IP ( 0.025661 % ) | Zimbabwe |
-| 25 IP ( 0.0237602 % ) | Myanmar |
-| 22 IP ( 0.020909 % ) | Libya |
-| 22 IP ( 0.020909 % ) | Liberia |
-| 20 IP ( 0.0190082 % ) | Malta |
-| 20 IP ( 0.0190082 % ) | Ivory Coast |
-| 19 IP ( 0.0180577 % ) | Réunion |
-| 18 IP ( 0.0171073 % ) | Cameroon |
-| 15 IP ( 0.0142561 % ) | Uruguay |
-| 15 IP ( 0.0142561 % ) | Mauritius |
-| 14 IP ( 0.0133057 % ) | Monaco |
-| 14 IP ( 0.0133057 % ) | Malawi |
-| 13 IP ( 0.0123553 % ) | Trinidad and Tobago |
-| 13 IP ( 0.0123553 % ) | El Salvador |
-| 13 IP ( 0.0123553 % ) | Angola |
-| 13 IP ( 0.0123553 % ) | Afghanistan |
-| 12 IP ( 0.0114049 % ) | Rwanda |
-| 12 IP ( 0.0114049 % ) | Puerto Rico |
-| 12 IP ( 0.0114049 % ) | Botswana |
-| 11 IP ( 0.0104545 % ) | Namibia |
-| 11 IP ( 0.0104545 % ) | Mozambique |
-| 11 IP ( 0.0104545 % ) | Martinique |
-| 10 IP ( 0.00950408 % ) | Honduras |
-| 10 IP ( 0.00950408 % ) | Brunei |
-| 9 IP ( 0.00855367 % ) | Oman |
-| 9 IP ( 0.00855367 % ) | Jamaica |
-| 9 IP ( 0.00855367 % ) | Benin |
-| 8 IP ( 0.00760326 % ) | U.S. Virgin Islands |
-| 8 IP ( 0.00760326 % ) | DR Congo |
-| 7 IP ( 0.00665285 % ) | Yemen |
-| 7 IP ( 0.00665285 % ) | Somalia |
-| 7 IP ( 0.00665285 % ) | Montenegro |
-| 7 IP ( 0.00665285 % ) | Liechtenstein |
-| 7 IP ( 0.00665285 % ) | Bhutan |
-| 7 IP ( 0.00665285 % ) | Andorra |
-| 6 IP ( 0.00570245 % ) | Nicaragua |
-| 6 IP ( 0.00570245 % ) | French Guiana |
-| 6 IP ( 0.00570245 % ) | British Virgin Islands |
-| 6 IP ( 0.00570245 % ) | Belize |
-| 6 IP ( 0.00570245 % ) | Bahamas |
-| 5 IP ( 0.00475204 % ) | Suriname |
-| 5 IP ( 0.00475204 % ) | Sudan |
-| 5 IP ( 0.00475204 % ) | St Kitts and Nevis |
-| 5 IP ( 0.00475204 % ) | Niger |
-| 5 IP ( 0.00475204 % ) | Mauritania |
-| 5 IP ( 0.00475204 % ) | Burundi |
-| 4 IP ( 0.00380163 % ) | Turkmenistan |
-| 4 IP ( 0.00380163 % ) | Sierra Leone |
-| 4 IP ( 0.00380163 % ) | Maldives |
-| 4 IP ( 0.00380163 % ) | Haiti |
-| 4 IP ( 0.00380163 % ) | Guernsey |
-| 4 IP ( 0.00380163 % ) | Equatorial Guinea |
-| 4 IP ( 0.00380163 % ) | Comoros |
-| 3 IP ( 0.00285122 % ) | Mali |
-| 3 IP ( 0.00285122 % ) | Madagascar |
-| 3 IP ( 0.00285122 % ) | Guinea |
-| 3 IP ( 0.00285122 % ) | Guam |
-| 3 IP ( 0.00285122 % ) | Eswatini |
-| 3 IP ( 0.00285122 % ) | Barbados |
-| 2 IP ( 0.00190082 % ) | Åland Islands |
-| 2 IP ( 0.00190082 % ) | Togo |
-| 2 IP ( 0.00190082 % ) | Timor-Leste |
-| 2 IP ( 0.00190082 % ) | Isle of Man |
-| 2 IP ( 0.00190082 % ) | Gabon |
-| 2 IP ( 0.00190082 % ) | Dominica |
-| 2 IP ( 0.00190082 % ) | Curaçao |
-| 2 IP ( 0.00190082 % ) | Cuba |
-| 2 IP ( 0.00190082 % ) | Congo Republic |
-| 2 IP ( 0.00190082 % ) | Burkina Faso |
-| 2 IP ( 0.00190082 % ) | Bonaire |
-| 2 IP ( 0.00190082 % ) | Bermuda |
-| 1 IP ( 0.000950408 % ) | Vanuatu |
-| 1 IP ( 0.000950408 % ) | São Tomé and Príncipe |
-| 1 IP ( 0.000950408 % ) | San Marino |
-| 1 IP ( 0.000950408 % ) | Samoa |
-| 1 IP ( 0.000950408 % ) | Papua New Guinea |
-| 1 IP ( 0.000950408 % ) | Jersey |
-| 1 IP ( 0.000950408 % ) | Guinea-Bissau |
-| 1 IP ( 0.000950408 % ) | Fiji |
-| 1 IP ( 0.000950408 % ) | Eritrea |
-| 1 IP ( 0.000950408 % ) | Chad |
-| 1 IP ( 0.000950408 % ) | Cayman Islands |
-| 1 IP ( 0.000950408 % ) | Aruba |
-| 1 IP ( 0.000950408 % ) | Anguilla |
+| 39416 IP ( 24.2533 % ) | China |
+| 24446 IP ( 15.042 % ) | United States |
+| 10821 IP ( 6.65834 % ) | South Korea |
+| 7400 IP ( 4.55334 % ) | India |
+| 7046 IP ( 4.33552 % ) | Germany |
+| 6260 IP ( 3.85188 % ) | Singapore |
+| 4965 IP ( 3.05505 % ) | Russia |
+| 4639 IP ( 2.85445 % ) | Brazil |
+| 3895 IP ( 2.39666 % ) | United Kingdom |
+| 3726 IP ( 2.29267 % ) | Hong Kong |
+| 3504 IP ( 2.15607 % ) | Japan |
+| 3348 IP ( 2.06008 % ) | Taiwan |
+| 3195 IP ( 1.96594 % ) | The Netherlands |
+| 2879 IP ( 1.7715 % ) | Vietnam |
+| 2272 IP ( 1.398 % ) | France |
+| 2124 IP ( 1.30693 % ) | Indonesia |
+| 1915 IP ( 1.17833 % ) | Australia |
+| 1659 IP ( 1.02081 % ) | Canada |
+| 1547 IP ( 0.951895 % ) | Argentina |
+| 1497 IP ( 0.921129 % ) | Iran |
+| 1384 IP ( 0.851598 % ) | Sweden |
+| 1352 IP ( 0.831908 % ) | Mexico |
+| 1324 IP ( 0.814679 % ) | Italy |
+| 1317 IP ( 0.810372 % ) | Thailand |
+| 1296 IP ( 0.79745 % ) | Türkiye |
+| 1239 IP ( 0.762377 % ) | Bulgaria |
+| 1182 IP ( 0.727304 % ) | Ukraine |
+| 830 IP ( 0.510713 % ) | Poland |
+| 699 IP ( 0.430106 % ) | Spain |
+| 608 IP ( 0.374112 % ) | Venezuela |
+| 605 IP ( 0.372266 % ) | Colombia |
+| 599 IP ( 0.368575 % ) | Malaysia |
+| 595 IP ( 0.366113 % ) | Iraq |
+| 473 IP ( 0.291045 % ) | Pakistan |
+| 447 IP ( 0.275046 % ) | Bangladesh |
+| 431 IP ( 0.265201 % ) | Romania |
+| 425 IP ( 0.261509 % ) | Portugal |
+| 398 IP ( 0.244896 % ) | Philippines |
+| 384 IP ( 0.236282 % ) | United Arab Emirates |
+| 378 IP ( 0.23259 % ) | Finland |
+| 375 IP ( 0.230744 % ) | Switzerland |
+| 367 IP ( 0.225821 % ) | Kuwait |
+| 359 IP ( 0.220899 % ) | Kazakhstan |
+| 356 IP ( 0.219053 % ) | Egypt |
+| 311 IP ( 0.191363 % ) | Chile |
+| 304 IP ( 0.187056 % ) | Belgium |
+| 282 IP ( 0.173519 % ) | South Africa |
+| 268 IP ( 0.164905 % ) | Hungary |
+| 266 IP ( 0.163674 % ) | Israel |
+| 236 IP ( 0.145215 % ) | Ethiopia |
+| 233 IP ( 0.143369 % ) | Morocco |
+| 219 IP ( 0.134754 % ) | Czechia |
+| 209 IP ( 0.128601 % ) | Norway |
+| 207 IP ( 0.127371 % ) | Austria |
+| 205 IP ( 0.12614 % ) | Lithuania |
+| 196 IP ( 0.120602 % ) | Peru |
+| 182 IP ( 0.111988 % ) | Ireland |
+| 177 IP ( 0.108911 % ) | Saudi Arabia |
+| 176 IP ( 0.108296 % ) | Luxembourg |
+| 171 IP ( 0.105219 % ) | Uzbekistan |
+| 158 IP ( 0.09722 % ) | Greece |
+| 156 IP ( 0.0959894 % ) | Bolivia |
+| 152 IP ( 0.0935281 % ) | Nigeria |
+| 150 IP ( 0.0922975 % ) | Kenya |
+| 143 IP ( 0.0879903 % ) | Moldova |
+| 139 IP ( 0.085529 % ) | Mongolia |
+| 139 IP ( 0.085529 % ) | Denmark |
+| 132 IP ( 0.0812218 % ) | Paraguay |
+| 127 IP ( 0.0781452 % ) | Azerbaijan |
+| 115 IP ( 0.0707614 % ) | Tunisia |
+| 115 IP ( 0.0707614 % ) | Cambodia |
+| 111 IP ( 0.0683001 % ) | Ecuador |
+| 109 IP ( 0.0670695 % ) | Cabo Verde |
+| 107 IP ( 0.0658389 % ) | Armenia |
+| 102 IP ( 0.0627623 % ) | Belarus |
+| 99 IP ( 0.0609163 % ) | Georgia |
+| 92 IP ( 0.0566091 % ) | Seychelles |
+| 92 IP ( 0.0566091 % ) | Costa Rica |
+| 90 IP ( 0.0553785 % ) | Dominican Republic |
+| 88 IP ( 0.0541478 % ) | Panama |
+| 82 IP ( 0.0504559 % ) | Serbia |
+| 76 IP ( 0.0467641 % ) | Nepal |
+| 74 IP ( 0.0455334 % ) | Latvia |
+| 71 IP ( 0.0436875 % ) | Algeria |
+| 67 IP ( 0.0412262 % ) | Slovenia |
+| 65 IP ( 0.0399956 % ) | Uruguay |
+| 65 IP ( 0.0399956 % ) | North Macedonia |
+| 63 IP ( 0.0387649 % ) | Sri Lanka |
+| 63 IP ( 0.0387649 % ) | Kyrgyzstan |
+| 63 IP ( 0.0387649 % ) | Gambia |
+| 62 IP ( 0.0381496 % ) | Slovakia |
+| 55 IP ( 0.0338424 % ) | Guatemala |
+| 53 IP ( 0.0326118 % ) | Uganda |
+| 53 IP ( 0.0326118 % ) | Jordan |
+| 53 IP ( 0.0326118 % ) | Estonia |
+| 52 IP ( 0.0319965 % ) | Iceland |
+| 50 IP ( 0.0307658 % ) | Macao |
+| 50 IP ( 0.0307658 % ) | Honduras |
+| 46 IP ( 0.0283046 % ) | Tanzania |
+| 46 IP ( 0.0283046 % ) | Ghana |
+| 43 IP ( 0.0264586 % ) | New Zealand |
+| 39 IP ( 0.0239973 % ) | Senegal |
+| 39 IP ( 0.0239973 % ) | Palestine |
+| 37 IP ( 0.0227667 % ) | Zambia |
+| 37 IP ( 0.0227667 % ) | Lebanon |
+| 36 IP ( 0.0221514 % ) | Qatar |
+| 35 IP ( 0.0215361 % ) | Cameroon |
+| 34 IP ( 0.0209208 % ) | Zimbabwe |
+| 34 IP ( 0.0209208 % ) | Cyprus |
+| 34 IP ( 0.0209208 % ) | Croatia |
+| 33 IP ( 0.0203054 % ) | Myanmar |
+| 31 IP ( 0.0190748 % ) | Laos |
+| 31 IP ( 0.0190748 % ) | Guadeloupe |
+| 31 IP ( 0.0190748 % ) | Bahrain |
+| 30 IP ( 0.0184595 % ) | Ivory Coast |
+| 29 IP ( 0.0178442 % ) | Tajikistan |
+| 28 IP ( 0.0172289 % ) | Bosnia and Herzegovina |
+| 26 IP ( 0.0159982 % ) | Jamaica |
+| 26 IP ( 0.0159982 % ) | Albania |
+| 25 IP ( 0.0153829 % ) | Malta |
+| 25 IP ( 0.0153829 % ) | Kosovo |
+| 24 IP ( 0.0147676 % ) | Libya |
+| 23 IP ( 0.0141523 % ) | Mauritius |
+| 23 IP ( 0.0141523 % ) | Angola |
+| 21 IP ( 0.0129216 % ) | Trinidad and Tobago |
+| 19 IP ( 0.011691 % ) | Mozambique |
+| 18 IP ( 0.0110757 % ) | Puerto Rico |
+| 18 IP ( 0.0110757 % ) | French Guiana |
+| 17 IP ( 0.0104604 % ) | Liberia |
+| 17 IP ( 0.0104604 % ) | Afghanistan |
+| 16 IP ( 0.00984506 % ) | Nicaragua |
+| 15 IP ( 0.00922975 % ) | Oman |
+| 15 IP ( 0.00922975 % ) | New Caledonia |
+| 15 IP ( 0.00922975 % ) | El Salvador |
+| 14 IP ( 0.00861443 % ) | Syria |
+| 14 IP ( 0.00861443 % ) | Rwanda |
+| 13 IP ( 0.00799911 % ) | Monaco |
+| 13 IP ( 0.00799911 % ) | Botswana |
+| 12 IP ( 0.0073838 % ) | Belize |
+| 10 IP ( 0.00615316 % ) | None |
+| 10 IP ( 0.00615316 % ) | Montenegro |
+| 10 IP ( 0.00615316 % ) | British Virgin Islands |
+| 10 IP ( 0.00615316 % ) | Benin |
+| 9 IP ( 0.00553785 % ) | Suriname |
+| 9 IP ( 0.00553785 % ) | Malawi |
+| 9 IP ( 0.00553785 % ) | Brunei |
+| 8 IP ( 0.00492253 % ) | DR Congo |
+| 8 IP ( 0.00492253 % ) | Bhutan |
+| 7 IP ( 0.00430722 % ) | Turkmenistan |
+| 7 IP ( 0.00430722 % ) | Eswatini |
+| 7 IP ( 0.00430722 % ) | Burundi |
+| 6 IP ( 0.0036919 % ) | Sudan |
+| 6 IP ( 0.0036919 % ) | Somalia |
+| 6 IP ( 0.0036919 % ) | Bahamas |
+| 5 IP ( 0.00307658 % ) | U.S. Virgin Islands |
+| 5 IP ( 0.00307658 % ) | Tonga |
+| 5 IP ( 0.00307658 % ) | St Kitts and Nevis |
+| 5 IP ( 0.00307658 % ) | Réunion |
+| 5 IP ( 0.00307658 % ) | Namibia |
+| 5 IP ( 0.00307658 % ) | Maldives |
+| 5 IP ( 0.00307658 % ) | Madagascar |
+| 5 IP ( 0.00307658 % ) | Gabon |
+| 5 IP ( 0.00307658 % ) | Curaçao |
+| 5 IP ( 0.00307658 % ) | Andorra |
+| 4 IP ( 0.00246127 % ) | Yemen |
+| 4 IP ( 0.00246127 % ) | Niger |
+| 4 IP ( 0.00246127 % ) | Haiti |
+| 4 IP ( 0.00246127 % ) | Guam |
+| 4 IP ( 0.00246127 % ) | Equatorial Guinea |
+| 4 IP ( 0.00246127 % ) | Cayman Islands |
+| 4 IP ( 0.00246127 % ) | Bonaire |
+| 4 IP ( 0.00246127 % ) | Aruba |
+| 3 IP ( 0.00184595 % ) | Togo |
+| 3 IP ( 0.00184595 % ) | Timor-Leste |
+| 3 IP ( 0.00184595 % ) | Sierra Leone |
+| 3 IP ( 0.00184595 % ) | Papua New Guinea |
+| 3 IP ( 0.00184595 % ) | Mauritania |
+| 3 IP ( 0.00184595 % ) | Martinique |
+| 3 IP ( 0.00184595 % ) | Mali |
+| 3 IP ( 0.00184595 % ) | Liechtenstein |
+| 3 IP ( 0.00184595 % ) | Comoros |
+| 2 IP ( 0.00123063 % ) | Guernsey |
+| 2 IP ( 0.00123063 % ) | Fiji |
+| 2 IP ( 0.00123063 % ) | Dominica |
+| 2 IP ( 0.00123063 % ) | Cuba |
+| 2 IP ( 0.00123063 % ) | Chad |
+| 2 IP ( 0.00123063 % ) | Burkina Faso |
+| 2 IP ( 0.00123063 % ) | Bermuda |
+| 1 IP ( 0.000615316 % ) | São Tomé and Príncipe |
+| 1 IP ( 0.000615316 % ) | South Sudan |
+| 1 IP ( 0.000615316 % ) | Sint Maarten |
+| 1 IP ( 0.000615316 % ) | Samoa |
+| 1 IP ( 0.000615316 % ) | Saint Lucia |
+| 1 IP ( 0.000615316 % ) | Lesotho |
+| 1 IP ( 0.000615316 % ) | Jersey |
+| 1 IP ( 0.000615316 % ) | Isle of Man |
+| 1 IP ( 0.000615316 % ) | Guinea-Bissau |
+| 1 IP ( 0.000615316 % ) | Guinea |
+| 1 IP ( 0.000615316 % ) | Greenland |
+| 1 IP ( 0.000615316 % ) | Gibraltar |
+| 1 IP ( 0.000615316 % ) | Djibouti |
+| 1 IP ( 0.000615316 % ) | Congo Republic |
+| 1 IP ( 0.000615316 % ) | Antigua and Barbuda |
